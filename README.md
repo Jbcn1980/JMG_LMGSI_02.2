@@ -5,3 +5,5 @@ Ja sé que a l'enunciat de l'exercici ens vas mencionar expressament que no copi
 Sóc conscient de què això afecta a la nota però he de mirar el curs de forma general, de moment li estic dedicant el temps necessari únicament a assolir els coneixements de l'assignatura, de totes formes em comprometo a en un futur substituir el text utliltzat per algún text propi.
 
 El text utilitzat l'he tret del generador de textos http://www.blindtextgenerator.com/es.
+
+Per altre banda, volia comentar que li he donat prioritat a la fulla d'estil externa, però he volgut fer també una mica de fulla d'estil interna i inline per posar-ho en pràctica i tenir una referència en els meus apunts en un futur.
