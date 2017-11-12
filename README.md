@@ -7,3 +7,5 @@ Sóc conscient de què això afecta a la nota però he de mirar el curs de forma
 El text utilitzat l'he tret del generador de textos http://www.blindtextgenerator.com/es.
 
 Per altre banda, volia comentar que li he donat prioritat a la fulla d'estil externa, però he volgut fer també una mica de fulla d'estil interna i inline per posar-ho en pràctica i tenir una referència en els meus apunts en un futur.
+
+https://github.com/Jbcn1980/JMG_LMGSI_02.2/blob/master/lorem%20ipsum.htm
